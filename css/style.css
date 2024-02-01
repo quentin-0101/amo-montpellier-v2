@@ -605,3 +605,7 @@ a:focus {
     border-radius: 15px;
     margin-bottom: 20px;
   }
+
+  .reportage:hover{
+    opacity: 0.5;
+  }
